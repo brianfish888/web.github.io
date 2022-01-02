@@ -1,0 +1,94 @@
+* {
+    border: solid black 1px;
+  
+  }
+  
+  .block {
+    border: none;
+    border-radius: 100%;
+    text-align: center;
+    vertical-align: center;
+    padding: 20px;
+    text-shadow: hoff voff blur #000;
+    letter-spacing: 2px;
+    line-height: 90px;
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    margin: 30px;
+    margin-left: 50px;
+    color: white;
+    font-weight: 900;
+  }
+  .block:hover {
+    background-color: white;
+    color: black;
+  }
+  
+  .block1 {
+    background-color: blue;
+  }
+  
+  .block2 {
+    background-color: orange;
+  }
+  
+  .block3 {
+    background-color: green;
+  }
+  
+  .block4 {
+    background-color: purple;
+  }
+  
+  .block5 {
+    background-color: red;
+  }
+  
+  .block6 {
+    background-color: black;
+  }
+  .block7 {
+    background-color: rgb(10, 131, 131);
+  }
+  .block8 {
+    background-color: rgb(123, 150, 25);
+  }
+  .block9 {
+    background-color:rgb(26, 221, 163);
+  }
+  .block10 {
+    background-color: violet;
+  }
+  
+  
+  .count {
+    background-color: rgb(233, 44, 10);
+    text-align: center;
+  }
+  
+  .test2, .test3, .test4, .test5, .test6 ,.test7 ,.test8 ,.test9, .test10 {
+    display: none;
+  }
+  
+  .outcome {
+    text-align: center;
+    font-size: larger;
+    font-weight: 900;
+    width: 1000px;
+    height: 500px;
+    background-color: rgb(255, 249, 249);
+    display:none;
+  }
+  
+  .active {
+    background-color: white;
+    color: red;
+  }
+  
+  .final {
+    font-size: larger;
+    font-weight: 900;
+    display: none;
+  }
+  
